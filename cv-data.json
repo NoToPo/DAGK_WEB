@@ -1,0 +1,79 @@
+{
+    "education": [{
+        "degree": "Information Technology",
+        "from_date": "2013-09-01",
+        "school_name": "University of Science",
+        "to_date": "2017-09-01"
+    }, {
+		"degree": "General Knowledge",
+        "from_date": "2010-09-01",
+        "school_name": "Phan Thanh Gian High School, Ben Tre",
+        "to_date": "2013-09-01"
+	}],
+    "experiences": [{
+        "company": {
+            "location": "Rome",
+            "name": "Code and Code",
+            "url": "http://"
+        },
+        "from_date": "2013/09/01",
+        "job_description": "Code every time, every place and every day",
+        "job_position": "Programmer",
+        "to_date": "Today"
+    }],
+    "personal_informations": {
+        "name": "Nguyễn Thanh ",
+        "phone_number": "(+84) 169 8284300",
+        "social_contacts": {
+            "twitter": "http://twitter",
+            "linkedin": "http://linkedin",
+            "skype": "http://skype",
+            "email": "mailto:#",
+            "github": "http://github",
+			"facebook": "https://www.facebook.com/phong.nguyenthanh.7777"
+        },
+        "surname": "Phong",
+		"country": "Vietnam",
+		"email": "nguyenthanhphong1207@gmail.com",
+		"facebook": "https://www.facebook.com/phong.nguyenthanh.7777"
+    },
+    "projects": [{    
+        "description": "Write a program that allows manipulation of graphic objects.",
+        "from_date": "2015/09/28",
+        "name": "MyPaint",
+        "to_date": "2016/01/28",
+        "url": "http://"
+    }, {    
+        "description": "Write a program that allows the management of the airport ticketing",
+        "from_date": "2014/09/23",
+        "name": "Airport Management",
+        "to_date": "2015/01/23",
+        "url": "http://"
+    }],
+    "skills": [{
+        "level": "7",
+        "name": "C/C++"
+    }, {
+        "level": "6",
+        "name": "C#"
+    }, {
+        "level": "6",
+        "name": "Android"
+    }, {
+        "level": "5",
+        "name": "Java"
+    }, {
+        "level": "7",
+        "name": "Microsoft SQL Server"
+    }, {
+        "level": "4",
+        "name": "Soft Skills"
+    }, {
+        "level": "5",
+        "name": "Teamwork"
+    }, {
+        "level": "6",
+        "name": "Time Management"
+    }],
+    "summary": "The greatest danger for most of us is not that our aim is too high and we miss it, but that it is too low and we reach it."
+}
