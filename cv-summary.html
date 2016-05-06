@@ -9,7 +9,14 @@
         </h3>
     </div>
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" ng-show="!summaryCtrl.toggle">
-        <p class="text-justify">{{cv.informations.summary}}</p>
-		
+		<div ng-hide="cv.Summary_disabled">
+			<p ng-dblclick="cv.Summary_enabled()" class="text-justify">{{cv.informations.summary}}</p>
+		</div>
+		<div ng-show="cv.Summary_disabled">
+			<input ng-model="cv.Summary_text" class="form-control">
+			<button ng-click="cv.Summary_save()">Save</button>
+			or
+			<button ng-click="cv.Summary_cancel()">Cancel</button>
+		</div>
     </div>
 </div>

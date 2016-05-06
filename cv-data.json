@@ -22,7 +22,7 @@
         "to_date": "Today"
     }],
     "personal_informations": {
-        "name": "Nguyễn Thanh ",
+        "name": "Nguyễn Thanh Phong",
         "phone_number": "(+84) 169 8284300",
         "social_contacts": {
             "twitter": "http://twitter",
@@ -32,7 +32,6 @@
             "github": "http://github",
 			"facebook": "https://www.facebook.com/phong.nguyenthanh.7777"
         },
-        "surname": "Phong",
 		"country": "Vietnam",
 		"email": "nguyenthanhphong1207@gmail.com",
 		"facebook": "https://www.facebook.com/phong.nguyenthanh.7777"
